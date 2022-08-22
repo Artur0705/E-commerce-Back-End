@@ -42,12 +42,14 @@
   ## Demo
 
   - You can view MySql walk through video by pressing [this link](https://drive.google.com/file/d/10ehxegk2xKFAs9on8ZvwB7ARlS49XYe0/view) .
-  - You can view Insomnia walk through video by pressing [this link]() .
+  - You can view Insomnia walk through video by pressing [this link](https://drive.google.com/file/d/1RMwk5Wn6Muej9bp5BovXobFjBFyaS1WS/view) .
 
   ## Screenshot 
 
-  ![image]()
-  ![image]()
+  ![image](./media/Screenshot-MySql.png)
+  ![image](./media/MySql.gif)
+  ![image](./media/Screenshot-Insomnia.png)
+  ![image](./media/Insomnia.gif)
 
   ## Questions
   If you have any questions regarding the project you can contact me directly at artlil420@gmail.com.
